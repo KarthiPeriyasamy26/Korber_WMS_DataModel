@@ -4,9 +4,6 @@
 ## Overview
 This repository is a showcase of my expertise as a **WMS Techno-functional Consultant** with **2 years and 10 months** of experience in **Korber Highjump**. It features a process diagram illustrating the intricate connections and relationships between various database tables used in Korber Highjump's WMS.
 
-## Diagram Preview
-![WMS Table Connection Diagram](schema.png)
-
 ## Key Features
 - Comprehensive visualization of table connections in Korber Highjump WMS.
 - Highlights the functional relationships between critical tables like:
