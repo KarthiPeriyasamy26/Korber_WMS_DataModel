@@ -26,7 +26,6 @@ This repository is a showcase of my expertise as a **WMS Techno-functional Consu
 The diagram can be leveraged by:
 - Developers and consultants working with Korber Highjump for understanding table interactions.
 - Businesses seeking to optimize WMS configurations.
-- Recruiters evaluating my technical and functional expertise in WMS processes.
 
 ## Table Highlights
 Here are some key tables included in the diagram:
