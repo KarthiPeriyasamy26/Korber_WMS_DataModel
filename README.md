@@ -32,7 +32,3 @@ Here are some key tables included in the diagram:
 4. **t_stored_item**: Contains inventory data for stored items.
 5. **t_employee**: Records employee data and assignments.
 
-## How to Use
-- Clone the repository:
-  ```bash
-  git clone https://github.com/yourusername/wms-table-diagram.git
