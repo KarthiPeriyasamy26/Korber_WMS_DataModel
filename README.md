@@ -11,14 +11,6 @@ This repository is a showcase of my expertise as a **WMS Techno-functional Consu
   - **t_stored_item**, **t_pick_area**, **t_employee**, and more.
 - Designed to support understanding and troubleshooting of WMS processes.
 
-## My Experience
-- **Role**: Software Developer (Consultant) specializing in WMS Highjump (Korber).
-- **Expertise**:
-  - Developing and maintaining WMS processes.
-  - Implementing table-based configurations to optimize workflows.
-  - Deep knowledge of data flows and table dependencies within Korber Highjump.
-- **Duration**: 2 years 10 months.
-
 ## Use Case
 The diagram can be leveraged by:
 - Developers and consultants working with Korber Highjump for understanding table interactions.
