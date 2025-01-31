@@ -3,7 +3,6 @@
 
 ## Overview
 This diagram (WMS_Database.png) visualizes the structure and relationships between tables in a Warehouse Management System (WMS) database. It highlights how data flows between critical components of the system, such as inventory, orders, customers, and transactions.
-This repository is a showcase of my expertise as a **WMS Techno-functional Consultant** with **2 years and 10 months** of experience in **Korber Highjump**. It features a process diagram illustrating the intricate connections and relationships between various database tables used in Korber Highjump's WMS.
 
 ## Key Features
 - Comprehensive visualization of table connections in Korber Highjump WMS.
