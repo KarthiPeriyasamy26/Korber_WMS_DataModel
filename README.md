@@ -32,3 +32,9 @@ Here are some key tables included in the diagram:
 8. **t_transaction**: Logs all WMS activities (e.g., picks, moves, adjustments) for audit and traceability.
 9. **t_employee**: Stores employee profiles, role assignments, and work transactions.
 
+### Note
+This diagram is built based on my hands-on experience working with **Korber HighJump WMS** across real-world implementations. It serves as a reference for developers and consultants working with WMS data models.
+
+If you notice any mistakes or have suggestions, feel free to **open an issue or collaborate** — contributions are always welcome!
+
+
