@@ -3,6 +3,7 @@
 
 ## Overview
 This repository contains a detailed ER diagram ([WMS_Database_Korber.png](WMS_Database_Korber.png)) representing the internal data structure of the Korber HighJump WMS. It illustrates how critical WMS components interact - from inventory control to work queue processing and order fulfillment.
+
 The diagram reflects real-world implementation experience and is intended as a knowledge-sharing resource for professionals working in WMS environments.
 
 ## Key Highlights
