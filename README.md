@@ -1,8 +1,8 @@
-# Korber_WMS_DataModel
-# Warehouse Management System (WMS) - Korber Highjump Table Connections
+# Körber_WMS_DataModel
+# Warehouse Management System (WMS) - Körber Highjump Table Connections
 
 ## Overview
-This repository contains a detailed ER diagram ([WMS_Database_Korber.png](WMS_Database_Korber.png)) representing the internal data structure of the Korber HighJump WMS. It illustrates how critical WMS components interact - from inventory control to work queue processing and order fulfillment.
+This repository contains a detailed ER diagram ([WMS_Database_Korber.png](WMS_Database_Korber.png)) representing the internal data structure of the Körber HighJump WMS. It illustrates how critical WMS components interact - from inventory control to work queue processing and order fulfillment.
 
 The diagram reflects real-world implementation experience and is intended as a knowledge-sharing resource for professionals working in WMS environments.
 
@@ -15,7 +15,7 @@ The diagram reflects real-world implementation experience and is intended as a k
 
 ## Use Case
 This model is useful for:
-- WMS Consultants & Developers – to understand, extend, or debug Korber WMS processes.
+- WMS Consultants & Developers – to understand, extend, or debug Körber WMS processes.
 - System Architects – to plan integrations and database optimization.
 - Businesses – to align operational strategies with database-level WMS insights.
 
@@ -34,7 +34,7 @@ Here are some key tables included in the diagram:
 9. **t_employee**: Stores employee profiles, role assignments, and work transactions.
 
 ### Note
-This diagram is built based on my hands-on experience working with **Korber HighJump WMS** across real-world implementations. It serves as a reference for developers and consultants working with WMS data models.
+This diagram is built based on my hands-on experience working with **Körber HighJump WMS** across real-world implementations. It serves as a reference for developers and consultants working with WMS data models.
 
 If you notice any mistakes or have suggestions, feel free to **open an issue or collaborate** — contributions are always welcome!
 
