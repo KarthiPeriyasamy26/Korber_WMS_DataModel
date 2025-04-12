@@ -13,9 +13,12 @@ The diagram reflects real-world implementation experience and is intended as a k
 - Designed to support understanding and troubleshooting of WMS processes.
 
 ## Use Case
-The diagram can be leveraged by:
-- Developers and consultants working with Korber Highjump for understanding table interactions.
-- Businesses seeking to optimize WMS configurations.
+This model is useful for:
+- WMS Consultants & Developers – to understand, extend, or debug Korber WMS processes.
+- System Architects – to plan integrations and database optimization.
+- Businesses – to align operational strategies with database-level WMS insights.
+
+
 
 ## Table Highlights
 Here are some key tables included in the diagram:
