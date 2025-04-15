@@ -34,7 +34,7 @@ Here are some key tables included in the diagram:
 9. **t_employee**: Stores employee profiles, role assignments, and work transactions.
 
 ### Note
-This diagram is built based on my hands-on experience working with **Körber HighJump WMS** across real-world implementations. It serves as a reference for developers and consultants working with WMS data models.
+This diagram is based on my hands-on experience working with **Körber HighJump WMS** across real-world implementations. It serves as a reference for developers and consultants working with WMS data models.
 
 If you notice any mistakes or have suggestions, feel free to **open an issue or collaborate** — contributions are always welcome!
 
