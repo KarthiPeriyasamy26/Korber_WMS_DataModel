@@ -7,18 +7,9 @@ This repository contains a detailed ER diagram ([WMS_Database_Korber.png](WMS_Da
 The diagram reflects real-world implementation experience and is intended as a knowledge-sharing resource for professionals working in WMS environments.
 
 ## Key Highlights
-- Visual representation of core table structures and dependencies built from practical WMS consulting experience.
 - Focused on real-world entities such as orders, inventory, work queues, pick areas, and employees—mapped for clarity and operational relevance.
 - Demonstrates how data flows across key WMS operations including receiving, storage, picking, and shipping.
-- Built for developers, analysts, and consultants to quickly navigate and understand the WMS database for integration, reporting, or debugging.
 - Clearly separates operational tables (e.g., t_order, t_transaction, t_stored_item) from configuration/reference tables (e.g., t_pick_area, t_location, t_zone).
-
-## Use Case
-This model is useful for:
-- WMS Consultants & Developers – to understand, extend, or debug Körber WMS processes.
-- System Architects – to plan integrations and database optimization.
-- Businesses – to align operational strategies with database-level WMS insights.
-
 
 
 ## Table Insights (Sample)
@@ -34,7 +25,7 @@ Here are some key tables included in the diagram:
 9. **t_employee**: Stores employee profiles, role assignments, and work transactions.
 
 ### Note
-This diagram is based on my hands-on experience working with **Körber HighJump WMS** across real-world implementations. It serves as a reference for developers and consultants working with WMS data models.
+This diagram is based on my hands-on experience working with **Körber HighJump WMS** across real-world implementations.
 
 If you notice any mistakes or have suggestions, feel free to **open an issue or collaborate** — contributions are always welcome!
 
